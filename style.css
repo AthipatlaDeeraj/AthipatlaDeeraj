@@ -1,0 +1,63 @@
+body{
+    background-color: rgba(33, 16, 16, 0.367);
+}
+.header{
+    display: block;
+    padding: 24px;
+    border: 1px white solid;
+    border-radius: 15px;
+    margin: 0;
+    background-color: red;
+}
+.header>a{
+    text-decoration: none;
+    color: white;
+}
+.header>a:hover{
+    color: blue;
+}
+.one, .two, .thr, .four{
+    padding: 15px;
+    font-size:x-large;
+}
+.fordog1{
+    display: block;
+    background-color: rgba(240, 248, 255, 0.674);
+    margin-bottom: 2vw;
+}
+.fordog1> #one,#two,#three{
+    margin-left:13vw;
+}
+.fordog2{
+    display: block;
+    background-color: rgba(240, 248, 255, 0.674);
+    margin-bottom: 2vw;
+}
+.fordog2 > #one,#two,#three{
+    margin-left:13vw;
+}
+.forcat1{
+    display: block;
+    background-color: rgba(240, 248, 255, 0.674);
+    margin-bottom: 2vw;
+
+}
+.forcat2{
+    display: block;
+    background-color: rgba(240, 248, 255, 0.674);
+    margin-bottom: 2vw;
+}
+.forcat1 > img{
+    height: 30vh;
+    width: 15vw;
+}
+.forcat2 > img{
+    height: 30vh;
+    width: 15vw;
+}
+.forcat1 > #one,#two,#three{
+    margin-left:13vw;
+}
+.forcat2 > #one,#two,#three{
+    margin-left:13vw;
+}
