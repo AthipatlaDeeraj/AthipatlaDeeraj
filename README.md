@@ -1,3 +1,3 @@
 -Deeraj😎
--Starter-Front-End-Development  badminton,gym working on data analysis
+-Starter-Front-End-Developper , badminton,gym  ,  started data analytics
 -
