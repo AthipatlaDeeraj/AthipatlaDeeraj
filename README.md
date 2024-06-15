@@ -1,3 +1,5 @@
--Deeraj😎
--Starter-Front-End-Developper , badminton,gym  ,  started data analytics
+-Deeraj Kumar
+-Web-Developper
+-Coding..
+-badminton , started data analytics
 -
