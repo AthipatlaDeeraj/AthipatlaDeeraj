@@ -1,5 +1,5 @@
 -Deeraj Kumar
--Web-Developper
+-Full Stack Developer
+-MERN STACK
 -Coding..
--badminton , started data analytics
 -
