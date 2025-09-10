@@ -1,16 +1,16 @@
-# Hi, I'm Athipatla Deeraj Kumar 👋
+# Hi I'm Deeraj 
 
 💻 **Tech-driven problem solver** passionate about building **scalable**, **secure**, and **high-performance applications**.  
 🚀 Skilled in **Java (DSA & OOPs)**, **Cloud Computing (AWS)**, and **Full-Stack Development (MERN)**.  
-🌱 Currently exploring advanced **cloud architectures** and **distributed systems**.
+🌱 Currently exploring advanced **cloud architectures** and **MERN STACK**.
 
 ---
 
 ### 🛠 Tech Stack
-- **Languages:** Java, JavaScript, SQL  
+- **Languages:** Java, JavaScript, SQL
 - **Cloud:** AWS (Cloud Practitioner Certified), EC2, VPC, S3, IAM  
 - **Web Development:** React.js, Node.js, Express.js, MongoDB, MySQL, HTML, CSS  
-- **Tools:** Git, GitHub, Postman, VS Code  
+- **Tools:** Git, GitHub, Postman
 
 ---
 
@@ -29,5 +29,4 @@
 
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/athipatla-deeraj-kumar/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/AthipatlaDeeraj/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AthipatlaDeeraj)
